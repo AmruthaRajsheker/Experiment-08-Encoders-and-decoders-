@@ -102,6 +102,8 @@ endmodule
 ```
 
 
+
+
 ### RTL LOGIC  
 #### ENCODER
 ![8 1](https://github.com/AmruthaRajsheker/Experiment-08-Encoders-and-decoders-/assets/119475943/04cc1eb1-3c73-46f2-8b2b-83b3d4ef377f)
